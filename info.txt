@@ -1,2 +1,3 @@
-Autor: Bartosz Pirog
 Kurs: DevOps
+Kurs: Technologie DevOps 2025
+
