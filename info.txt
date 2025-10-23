@@ -1,1 +1,2 @@
 Autor: Bartosz Pirog
+Kurs: DevOps
